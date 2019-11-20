@@ -1,0 +1,1 @@
+*   *   *   *   *   /usr/bin/fswebcam -r 3280x2464 /tmp/images/image.jpeg 2>&1
